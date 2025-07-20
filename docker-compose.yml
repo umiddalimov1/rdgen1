@@ -5,9 +5,9 @@ services:
     restart: unless-stopped
     environment:
       SECRET_KEY: "django-insecure-!(t-!f#6g#sr%yfded9(xha)g+=!6craeez^cp+*&bz_7vdk61"
-      GHUSER: "github_username"
-      GHBEARER: "github_access_token"
-      GENURL: "accessible_url_of_server"
+      GHUSER: "umiddalimov1"
+      GHBEARER: "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"
+      GENURL: "https://3kto.ru/dcl"
       PROTOCOL: "https"
       REPONAME: "rdgen"
     ports:
